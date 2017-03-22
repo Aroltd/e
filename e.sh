@@ -1,3 +1,2 @@
-#!/bin/bash
-
-echo 'e'
+#!/bin/sh
+echo e
